@@ -6,16 +6,114 @@
         <title>Logan Daniels</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <style>
+
+        html, body {
+            height: 80%;
+            font-size: 20px;
+        }
+
+        .flex-container {
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .flexrow {
+          display: flex;
+          flex-direction: row;
+        }
+
+        .flexcol {
+          display: flex;
+          flex-direction: column;
+        }
+        
+        .header {
+            font-size: 30px;
+            align-items: center;
+            text-align: center
+
+        }
+
+        #a, #aniels {
+            visibility: none;
+            opacity: 0;
+            font-size: 0;
+            transition: all 1s;
+        }
+
+        #a.show, #aniels.show {
+            visibility: visible;;
+            opacity: 1;
+            font-size: 30px;
+        }
+
+        #animated {
+            position: relative;
+            top: 0px;
+            left: 0px;
+        }
+
+        #nav {
+            width: 50%;
+            margin-top: 20px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .navItem {
+            color: gray;
+            display: inline;
+            padding-left: 5px;
+            padding-right: 5px;
+            border-left: 1px solid lightgray;
+            border-right: 1px solid lightgray;
+            transition: all .5s;
+        }
+
+        .navItem:hover {
+            border-left: 1px solid gray;
+            border-right: 1px solid gray;
+            font-weight: bold;
+            color: black;
+            cursor: pointer;
+        }
+
+        a { color: inherit;
+            text-decoration: inherit;}
+
+        </style>
     </head>
     <body>
-        <p>Hello! If you're looking for Logan Daniels, you came to the right place.</p>
-        <p>I'll level with you: this page could use some spiffing up. It's on the way!</p>
-        <p>Content is king, though, right?</p>
-        <p>Not that there's much content...</p>
-        <p>At least the page loads quickly!</p>
-        <p>I'll work on making this site a bit more aesthetically pleasing.</p>
-        <p>In the meantime, here's my Github profile: <a href="https://github.com/logandaniels">link</a></p>
-        <p>And LinkedIn while we're at it: <a href="https://linkedin.co/in/danielslogan">link</a></p>
+    <div class="flex-container">
+        <div class="flexcol" style="width: 50%; align-items: center;">
+            <div class="header" style="width: 100%;">
+                <div id="animated">
+                    L<span id="og">og</span><span id="a">a</span><span id="n">n </span>D<span id="aniels">aniels</span>
+                </div>
+            </div>
+
+            <div id="nav" class="flexrow">
+                <div class="navItem"><a href="http://blog.lognd.com">words</a></div>
+                <div class="navItem"><a href="https://youtube.com/logiedan">video</a></div>
+                <div class="navItem"><a href="mailto:logan@lognd.com">contact</a></div>
+            </div>
+        </div>
+    </div>
+
+
+        <script src="https://code.jquery.com/jquery-3.2.0.min.js" integrity="sha256-JAW99MJVpJBGcbzEuXk4Az05s/XyDdBomFqNlM3ic+I=" crossorigin="anonymous"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.2.0.min.js"><\/script>')</script>
+        <script>
+        $(document).ready( function() {
+            setTimeout(function() {
+                $('#a').addClass('show');
+                $('#aniels').addClass('show');
+            }, 600);
+        });
+        </script>
     </body>
 </html>
-
