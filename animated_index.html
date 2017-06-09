@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="">
+  <head>
+    <title>Logan Daniels</title>
+    <meta name="description" content="The homepage of Logan Daniels">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <style>
+      a {
+        color: inherit;
+        text-decoration: inherit;
+      }
+      body {
+        background: black;
+        color: white;
+        font-size: 4em;
+      }
+      .letterP {
+        transition: 
+          all 1.5s .2s;
+      }
+      .letterW {
+        transition: 
+          all 1.5s .2s;
+      }
+
+      #ersonal, #ork {
+        opacity: 0;
+      }
+
+      .fade-in {
+        transition:
+          opacity 2s 1.7s;
+      }
+
+      #divider {
+        opacity: 0;
+        transition:
+          opacity 2s 1.7s;
+      }
+      
+    </style>
+
+    <script>
+    window.addEventListener("load", function() {
+      var p = document.querySelector(".letterP");
+      p.style.left = "25%";
+      var vertical = window.innerHeight / 2;
+      p.style.top = vertical + "px";
+      var w = document.querySelector(".letterW");
+      w.style.right = "25%";
+      //w.style["margin-right"] = Math.floor(-1 * w.getBoundingClientRect().width / 2) + "px";
+      w.style.top = vertical + "px";
+
+      document.getElementById("ersonal").style.opacity = 1;
+      document.getElementById("ork").style.opacity = 1;
+      document.getElementById("divider").style.height = window.innerHeight - 20 + "px";
+      document.getElementById("divider").classList.add("fade-in");
+      document.getElementById("divider").style.opacity = 1;
+    });
+    </script>
+
+  </head>
+  <body>
+    <div>
+      <div class="holder" style="height:0px; text-align: center">
+        <span class="letterP" style="position: relative; left: 0px; top: 0px"><a href="personal">P<span class="fade-in" id="ersonal">ersonal</span></a></span>
+        <span class="letterW" style="position: relative; right: 0px; top: 0px">W<span class="fade-in" id="ork">ork</span></span>
+      </div>
+      <div id="divider" style="position: absolute; left: 50%; width: 0px; border: 1px solid white;"></div>
+
+
+
+    </div>
+  </body>
+</html>
