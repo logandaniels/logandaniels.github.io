@@ -11,11 +11,13 @@
 
         html, body {
             height: 80%;
+            width: 100%;
             font-size: 20px;
         }
 
         .flex-container {
             height: 100%;
+            width: 100%;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -27,15 +29,17 @@
         }
 
         .flexcol {
+          width: 100%;
           display: flex;
           flex-direction: column;
+          justify-content: center;
+          align-items: center;
         }
         
         .header {
             font-size: 30px;
             align-items: center;
-            text-align: center
-
+            text-align: center;
         }
 
         #a, #aniels {
@@ -58,10 +62,12 @@
         }
 
         #nav {
-            width: 50%;
+            width: 80%;
+            max-width: 300px;
             margin-top: 20px;
-            display: flex;
             justify-content: space-between;
+            align-items: center;
+            text-align: center;
         }
 
         .navItem {
@@ -82,15 +88,17 @@
             cursor: pointer;
         }
 
-        a { color: inherit;
-            text-decoration: inherit;}
+        a {
+            color: inherit;
+            text-decoration: inherit;
+        }
 
         </style>
     </head>
     <body>
     <div class="flex-container">
-        <div class="flexcol" style="width: 50%; align-items: center;">
-            <div class="header" style="width: 100%;">
+        <div class="flexcol">
+            <div class="header">
                 <div id="animated">
                     L<span id="og">og</span><span id="a">a</span><span id="n">n </span>D<span id="aniels">aniels</span>
                 </div>
