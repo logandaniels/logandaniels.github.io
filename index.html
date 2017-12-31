@@ -6,111 +6,7 @@
         <title>Logan Daniels</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <style>
-
-        html, body {
-            height: 80%;
-            width: 100%;
-            margin: 0;
-            font-size: 20px;
-        }
-
-        .flex-container {
-            height: 100%;
-            width: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-
-        .flexrow {
-          display: flex;
-          flex-direction: row;
-        }
-
-        .flexcol {
-          width: 100%;
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          align-items: center;
-        }
-        
-        .header {
-            font-size: 30px;
-            align-items: center;
-            text-align: center;
-        }
-
-        #a, #aniels {
-            visibility: none;
-            opacity: 0;
-            font-size: 0;
-            transition: all 1s;
-        }
-
-        #a.show, #aniels.show, .photo.show {
-            visibility: visible;;
-            opacity: 1;
-            font-size: 30px;
-        }
-
-        #animated {
-            position: relative;
-            top: 0px;
-            left: 0px;
-        }
-
-        #nav {
-            width: 80%;
-            max-width: 400px;
-            margin-top: 30px;
-            justify-content: space-between;
-            text-align: center;
-        }
-
-        .navItem {
-            color: gray;
-            display: inline;
-            padding-left: 5px;
-            padding-right: 5px;
-            border-left: 1px solid lightgray;
-            border-right: 1px solid lightgray;
-        }
-
-        .navItemContainer {
-            width: 100px;
-        }
-
-        .navItem:hover {
-            border-left: 1px solid gray;
-            border-right: 1px solid gray;
-            font-weight: bold;
-            color: black;
-            cursor: pointer;
-        }
-
-        a {
-            color: inherit;
-            text-decoration: inherit;
-        }
-
-        .photo-container {
-            display: flex;
-            justify-content: center;
-        }
-
-        .photo {
-            max-width: 200px;
-            max-height: 200px;
-            height: auto;
-            width: auto;
-            border-radius: 50%;
-            opacity: 0;
-            transition: .7s all;
-        }
-        </style>
+        <link rel="stylesheet" href="styles.css">
     </head>
     <body>
     <div class="flex-container">
@@ -148,8 +44,8 @@
                 $('#aniels').addClass('show');
                 setTimeout(function() {
                     $('.photo').addClass('show');
-                }, 500);
-            }, 200);
+                }, 300);
+            }, 500);
         });
         </script>
     </body>
