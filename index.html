@@ -64,21 +64,23 @@
 
         #nav {
             width: 80%;
-            max-width: 375px;
+            max-width: 400px;
             margin-top: 30px;
             justify-content: space-between;
-            align-items: center;
             text-align: center;
         }
 
         .navItem {
             color: gray;
             display: inline;
-            width: 70px;
             padding-left: 5px;
             padding-right: 5px;
             border-left: 1px solid lightgray;
             border-right: 1px solid lightgray;
+        }
+
+        .navItemContainer {
+            width: 100px;
         }
 
         .navItem:hover {
@@ -123,14 +125,14 @@
             </div>
 
             <div id="nav" class="flexrow">
-                <div class="navItem"><a href="http://blog.lognd.com" target="_blank">words</a></div>
-                <div class="navItem"><a href="https://youtube.com/logiedan" target="_blank">video</a></div>
-                <div class="navItem">
+                <div class="navItemContainer"><div class="navItem"><a href="http://blog.lognd.com" target="_blank">words</a></div></div>
+                <div class="navItemContainer"><div class="navItem"><a href="https://youtube.com/logiedan" target="_blank">video</a></div></div>
+                <div class="navItemContainer"><div class="navItem">
                     <a href="https://github.com/logandaniels" target="_blank">
                         code
                     </a>
-                </div>
-                <div class="navItem"><a href="mailto:logan@lognd.com" target="_blank">contact</a></div>
+                </div></div>
+                <div class="navItemContainer"><div class="navItem"><a href="mailto:logan@lognd.com" target="_blank">contact</a></div></div>
             </div>
 
         </div>
