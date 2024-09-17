@@ -9,13 +9,15 @@ I quit Spotify recently and now subscribe to Apple Music.
 
 There was a time when I loved Spotify. When asked what music I listen to, I'd just say "Discovery Weekly". It consistently served up bangers and jams, and was something to look forward to each week. (Seriously, what an amazing public good to give people another thing to look forward to each week. Each day of the work needs some *thing* you look forward to, so you can monkey branch your way through the week until you reach the oasis of the weekend.)
 
+During this time Spotify helped me discover many of my all time favorite songs, including deeply personal "wait that's me. that's MY song" listens like [In My Apartment](https://open.spotify.com/track/2MtAUH5s7oPwlSXPfFga8N?si=4126ece7e9b84cfd) and [Mr. Shoes Tied](https://open.spotify.com/track/6S8PlPI7JiZcEshVEwo0fi?si=06b2db35910d4532) (both by the same artist!).
+
 Then it [enshittified](https://en.wikipedia.org/wiki/Enshittification). The algorithm got too tuned, and Discover Weekly started over-indexing on any niche I listened to a couple songs from. Yes, I have a soft spot for "comedy" artists like Weird Al and Bo Burnham. No, I don't want comedy songs to make up the majority of any playlist. Yes, I sometimes listen to video game soundtracks at work. No, I don't want video game songs to come up on my Discover Weekly.
 
 But still there were playlists on Spotify! But then they got enshittified too. If you want Rock, you get "Your Rock Mix - Made For You" which curates songs that are technically considered Rock, but somehow all from artists you already listen to. If you want Hip Hop, your Hip Hop Mix will somehow have 50% the same artists as your Rock Mix did.
 
 "But you like these songs," Spotify whimpers. When I want to listen to the songs I like, I'll listen to my library! I want the radio experience, I want to hear what's hot, something new, something to push my boundaries a bit.
 
-Eventually I felt I was in a pit of despair being force-fed the same few artists and songs in every possible algorithmic playlist. It was honestly depressing, instilling a vague feeling that there was nothing new out there, nothing positive, just the same old . Almost sadistic, like some evil Spotify imp was rubbing its hands and laughing manically, "Oh, I bet he'll like THIS ONE, alright!", torturing me. 
+Eventually I felt I was in a pit of despair being force-fed the same few artists and songs in every possible algorithmic playlist. It was honestly depressing, instilling a vague feeling that there was nothing new out there, nothing positive, just the same old garbage. It was almost sadistic, like some evil Spotify imp was rubbing its hands and laughing manically, "Oh, I bet he'll like THIS ONE, alright!", torturing me. 
 
 Needless to say, this was not good for my mental health.
 
@@ -43,4 +45,4 @@ I only listen to a single playlist. It's called "Feel Good". And I do.
 
 
 
-[^1]: Literally. Spotify Discover Weekly once recommended the lively tune [Depression is Here](https://open.spotify.com/track/1s7pDASwz8KkfRfGdwGJoo).
+[^1]: Literally. Spotify Discover Weekly once recommended to me the lively tunes [Depression is Here](https://open.spotify.com/track/1s7pDASwz8KkfRfGdwGJoo) and [Congratulations, You Survived Your Suicide](https://open.spotify.com/track/30j49jjGOeT4GuvRnHhjb6).
