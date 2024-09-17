@@ -22,3 +22,9 @@ A book will require so much writing, you'll never finish? Nonsense! The average 
 Perhaps you're held back from this hacker step by the illusion of consequences. If you publish a shitty book, then... what? Everyone will read it and see what a dunce you are? No one's going to read it. There's really no judgment, no social pain, and more than likely you'll reap the sneaky reward of being able to say "I'm a published author" without anyone checking your work.
 
 Do it. Just once, to say you did. Why not? 
+
+---
+
+Post script: A mere three days after writing I happened across gwern's ["Why To Not Write A Book"](https://gwern.net/book-writing), where he even cites [the same article](https://scholars-stage.org/the-silicon-valley-canon-on-the-paideia-of-the-american-tech-elite/) that inspired me to write this post. I don't think we're much in disagreement though. gwern's advice is to treat writing a book like dealing with heroin, as it might spiral out of control and ruin your life. My advice is to just set out to write a shitty book from the get-go, because it's the best cost-benefit ratio for book writing. Implicitly, shitty bookwriting avoids the perfectionist trap described in gwern's post.
+
+gwern's post is excellent, and I recommend reading it if this post at all tickled your fancy.
