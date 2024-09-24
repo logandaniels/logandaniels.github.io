@@ -70,7 +70,7 @@ One way or another, at this point you've once more found the next step, and can 
 ### Conclusion
 You'll note that everything I wrote above was mind-numbingly vague. I didn't mention any specifics, and it wasn't even really software engineering specific.
 
-And that's the power of this method! Even if you know diddly-squat about whatever everyone's talking about, you can ALWAYS ask "What do we need to do next? Who should do that? How quickly can they do it?" over and over until things move forward. It may require a lot of nudging, and an occasional escalation, but I promise you it will work.
+And that's the power of this method! Even if you know diddly-squat about whatever everyone's talking about, you can ALWAYS ask "What do we need to do next? Who should do that? How quickly can they do it?" over and over until things move forward. It may require a lot of nudging, and an occasional escalation, but I promise you it will work.[^2]
 
 And when you do this, people will be grateful. Because a lot of the time life is a swirling, confusing mess, and no one knows what's going on or what they can do to help, even if they badly want to. If you bring calmness and clarity to a situation, and help others identify the next baby step to take on a journey of a thousand miles: that is kindness.
 
@@ -79,3 +79,4 @@ And when you do this, people will be grateful. Because a lot of the time life is
 
 
 [^1]: This should really be its own entire page in my hypothetical personal wiki. Or, I know it's been written about a million times elsewhere on the internet, so I could just link to (or you could just google) such a post.
+[^2]: You may be pleased to discover you can also use this method in [non-work contexts](https://x.com/patio11/status/1817955327154831784).
