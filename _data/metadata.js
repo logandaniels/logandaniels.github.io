@@ -1,11 +1,11 @@
 module.exports = {
-	title: "Peanutbuttering",
+	title: "Peanut buttering",
 	url: "https://peanutbuttering.com/",
 	language: "en",
 	description: "a blog, spread thing.",
 	author: {
 		name: "Logan",
-		email: "logan@peanutbuttering.com",
-		url: "https://example.com/about-me/",
+		email: "omelet.sleek_0t@icloud.com",
+		url: "https://peanutbuttering.com/about/",
 	},
 };
