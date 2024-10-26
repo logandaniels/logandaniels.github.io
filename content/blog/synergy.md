@@ -21,7 +21,7 @@ I heard on TikTok that run club is where you meet people to date. I want to meet
 
 I went from having one insufficient motivation to run, to having *five separate reasons* motivating me to go for my run each day. Running went from not clearly worth it, to extremely worth it and feeling like an absolute life hack.
 
-Not only does synergy amp up the motivation, but it also buys you more of your most priceless resource: time. If I can socialize while also running, I've sort of bought back 30 minutes of my day if I would have otherwise spent 30 minutes running and then 30 minutes socializing. It might sound weird quantifying it like this, but if you enjoy the exercise/socialization as much if not more than you would have alone, you really do have a sum that's greater than its pats. 1+1=3!
+Not only does synergy amp up the motivation, but it also buys you more of your most priceless resource: time. If I can socialize while also running, I've sort of bought back 30 minutes of my day if I would have otherwise spent 30 minutes running and then 30 minutes socializing. It might sound weird quantifying it like this, but if you enjoy the exercise/socialization as much if not more than you would have alone, you really do have a sum that's greater than its parts. 1+1=3!
 
 Another quick example: learning Chinese. I wanted to spend time learning a language, and I had some Chinese experience and had enjoyed it. Wait, I have Chinese workers -- I can chat with them and it'll be fun, and improve my abilities, and make studying feel even more rewarding. I've also been wanting to take more trips -- I can visit Taiwan, and I'll be able to both utilize and improve my Chinese skills. Triple the motivation, just like that.
 

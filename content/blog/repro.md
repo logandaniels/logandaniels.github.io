@@ -1,5 +1,5 @@
 ---
-title: Does your depression repro?
+title: Does it repro?
 date: 2024-09-10
 tags:
 ---
