@@ -1,8 +1,8 @@
 module.exports = {
-	title: "Peanut buttering",
+	title: "Peanut Buttering",
 	url: "https://peanutbuttering.com/",
 	language: "en",
-	description: "a blog, spread thing.",
+	description: "A blog, spread thin.",
 	author: {
 		name: "Logan",
 		email: "omelet.sleek_0t@icloud.com",
