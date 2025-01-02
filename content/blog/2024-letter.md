@@ -4,11 +4,11 @@ date: 2025-01-01
 tags:
 ---
 
-After I had written what I thought to be an 80%-finished draft of this post, I by complete coincidence stumbled upon quite a different sort of 2024 post - a [2024 *letter*](https://zhengdongwang.com/2024/12/29/2024-letter.html). That author wrote that he got into writing yearly letters by reading [yet another writer's](https://danwang.co/2023-letter/) annual letters.
+After I had written what I thought to be an 80%-finished draft of this post, I by coincidence stumbled upon quite a different sort of 2024 post - a [2024 *letter*](https://zhengdongwang.com/2024/12/29/2024-letter.html). That author wrote that he got into writing yearly letters by reading [yet another writer's](https://danwang.co/2023-letter/) annual letters. As I read one letter and then the next, I realized that I was taking a Spotify-brained approach to my own year in review.
 
-As I began reading one letter and then the next, I felt the dawning realization that compared to the year in review I had drafted, these were letters of a different sort. First, both authors were scholars: voracious readers, deep thinkers, and skilled prose-smiths. But more pressingly, hadn't I been reading for a while now? And why was my scroll bar so small? Then I saw: these letters were 8,000 and 13,000 words long. That's like a year's worth of blog posts! Which, okay, makes a certain kind of sense, it's a *year* in review after all, but man!  
+I had thought a year should be distilled into data points and bulleted lists: an efficient, mass-produced summary with which different years could be compared. But in these letters, the authors luxuriated in their experiences and reflections from the year, slowly winding their way through topics of their choice. More than a summary, it was an essay, a synthesis of a year's worth of life lived. They were beautifully written, and they were long. Very long: 8,000 and 13,000 words apiece. That's like a year's worth of blog posts! Which, okay, it's a *year* in review after all, but man!  
 
-And yet reading these long-ass letters was a delight. So when at the end of the letter, the author exhorted, "I don’t understand why more people aren’t writing \[year-end letters\]"... To hear my new brother-in-arms of year-in-review writing speak directly-to-my-heart like that was all it took. I knew I had to scrap my entire post and rewrite it: not as a post, but as a *letter*.
+And yet reading these long-ass letters was a delight. So when at the end of the letter, my new brother-in-arms of year-in-review writing exhorted, "I don’t understand why more people aren’t writing \[year-end letters\]," I understood that "more people" was me. I knew I had to scrap my entire post and rewrite it: not as a post, but as a *letter*.
 
 So you - whoever made the foolish decision to read *my* year in review letter - are quite lucky. Now I'm a part of this conga-line of annual letters. And in place of the easily digestible bullet points and brevity of my initial draft, instead you get to slog through the clumsy prose of a guy who's doing that thing where you subconsciously imitate the tone of the most recent book you've been reading[^1]. 
 
@@ -18,7 +18,7 @@ Unlike those bozos (god bless them), I'm not a scholar. I'm a clown[^2]. A bozo,
 
 Hey, speaking of "funny"! Well, I should probably get on with the letter, but just keep that word "funny" in your head, and let's start with the part of the letter that's about:
 
-**What did I do this year?**
+**What I did this year**
 
 A lot happened this year. It felt like a year more full than most in my life so far.
 
