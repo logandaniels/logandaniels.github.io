@@ -8,23 +8,23 @@ After I had written what I thought to be an 80%-finished draft of this post, I b
 
 As I began reading one letter, and then the next, I felt a dawning realization that compared to the year in review I had drafted, these were letters of a different sort. First, both authors were scholars: voracious readers, deep thinkers, and skilled prose-smiths. But more pressingly, hadn't I been reading for a while now? And why was my scroll bar so small? Then I saw: these letters were 8,000 and 13,000 words long. That's like a year's worth of blog posts! Which, okay, makes a certain kind of sense, it's a Year in Review after all, but man!  
 
-And yet because of my immediate admiration for the authors' intellect and prose, reading these long-ass letters was a delight. And at the end, when one exhorted, "I don’t understand why more people aren’t writing \[year-end letters\]"? To hear my new brother-in-arms of year-in-review writing speak directly-to-my-heart like that was all it took. I knew I had to scrap my entire post and rewrite it -- not as a post, but as a *letter*.
+And yet because of my immediate admiration for the authors' intellect and prose, reading these long-ass letters was a delight. And at the end, when one exhorted, "I don’t understand why more people aren’t writing \[year-end letters\]"? To hear my new brother-in-arms of year-in-review writing speak directly-to-my-heart like that was all it took. I knew I had to scrap my entire post and rewrite it: not as a post, but as a *letter*.
 
 So you - whoever made the foolish decision to read *my* year in review letter - are quite lucky. Now I'm a part of this conga-line of annual letters. And in place of the easily digestible bullet points and brevity of my initial draft, instead you get to slog through the clumsy prose of a guy who's doing that thing where you subconsciously imitate the tone of the most recent book you've been reading[^1]. 
 
 **But don't worry.**
 
-Unlike those bozos (god bless them), I'm not a scholar. I'm a clown[^2]. A bozo, if you will. And I know who I am! Sort of. So I will keep this letter authentically me. It's already better than the draft -- the bullets were sterile. So sterile that it triggered an existential crisis about why oh god can't I be funny?
+Unlike those bozos (god bless them), I'm not a scholar. I'm a clown[^2]. A bozo, if you will. And I know who I am! Sort of. So I will keep this letter authentically me. It's already better than the draft -- the bullets were robotic and sterile. But I'm not a robot, I'm human -- just look at how good I am at captchas! And I'm not sterile, I'm... fertile? That sounds a bit funny.
 
-But I'll prove to you I can be funny! Hang on, I have a great segue in mind, but no idea how to execute on it. Just keep that word "funny" in your head, and let's start the part of the letter that's about:
-
-(By the way, I think the idea with these letters is that the length is ok because you can just skim past the boring parts. I empower you to do so.)
+Hey, speaking of "funny"! Well, I should probably get on with the letter, but just keep that word "funny" in your head, and let's start with the part of the letter that's about:
 
 **What did I do this year?**
 
 A lot happened this year. It felt like a year more full than most in my life so far.
 
-One thing it was filled with was new activities -- I tried a lot of things for the first time in 2024. For example, I finally lived out my lifelong dream of performing standup comedy. That's right, COMEDY. Remember "funny"? That's called a CALLBACK joke! I'm a comedy GOD!
+One thing it was filled with was new activities -- I tried a lot of things for the first time in 2024. For example, in January I finally lived out my dream since adolescence of performing standup comedy.
+
+That's right, *comedy*. Remember "funny"? That's called a CALLBACK joke! I'm a comedy GOD!
 
 Anyway, I bombed. I went to an open mic on three different occasions, and earned a total of perhaps two chuckles. I knew I was in trouble when I was walking to the mic and realized that even I didn't think my jokes were funny. Were they even jokes? I can tell you today: they in fact were not. I spent weeks writing what I thought were jokes, only to realize with horror that they were, at best, premises. I'm still glad I had this experience though -- I learned a lot about comedy writing, and have a renewed appreciation for successful comics.
 
@@ -38,9 +38,11 @@ Still, I would like to come back to writing and performing comedy at some point.
 
 **MORE STUFF I DID**
 
-I was all over the place this year, geographically. I visited the UK and France for the first time, including attending the [Cannes Film Festival](https://ericbai.co/the-ultimate-cannes-film-festival-guide-three-days-in-cannes) (did you know you can get free festival admission if you're 28 or younger? Check that link!). I also got to spend a lot of time traveling with family to Las Vegas, Minnesota, and Alaska. And I capped off the year with a fantastic two-week trip to Taiwan. I would love to luxuriate in the details of that trip, which is now one of my favorite all-time trips, but by strange coincidence one of the letter-writers I mentioned earlier already made the case for Taiwan [in his 2024 letter](https://zhengdongwang.com/2024/12/29/2024-letter.html). And if there's one thing I learned from performing Jerry Seinfeld's entire act verbatim an open mic, it's that people do NOT like it when you steal material.
+I was all over the place this year, geographically. I visited the UK and France for the first time, including attending the [Cannes Film Festival](https://ericbai.co/the-ultimate-cannes-film-festival-guide-three-days-in-cannes) (did you know you can get free festival admission if you're 28 or younger? Check that link!). I also got to spend a lot of time traveling with family to Las Vegas, Minnesota, and Alaska.
 
-I will share a few tidbits that I loved. Each of Taipei's metro lines has [a unique theme song](https://www.youtube.com/watch?v=Y8IiVZ8Ey64) that places when a train is arriving. Taipei has a wildly convenient network of docked bikeshares that cost only 60¢ per hour, and plenty of bike trails to use them on. The hot spring resort in Beitou was so relaxing I cried. The quantity, quality, and low price of restaurant food was a marvel -- I ate so many delicious meals while rarely paying more than three or four dollars. The precision and calm of a traditional tea preparation transfixed me. And above all, nearly everyone I met wasn't just kind, but above-and-beyond kind -- an "invite you to breakfast with their entire family" sort of kind. It's really a special place.
+And I capped off the year with a fantastic two-week trip to Taiwan. I would love to luxuriate in the details of that trip, which is now one of my favorite all-time trips, but by strange coincidence one of the letter-writers I mentioned earlier already made the case for Taiwan [in his 2024 letter](https://zhengdongwang.com/2024/12/29/2024-letter.html). And if there's one thing I learned from performing Jerry Seinfeld's entire act verbatim an open mic, it's that people do NOT like it when you steal material.
+
+I will just share a few tidbits that I loved about Taiwan. Each of Taipei's metro lines has [a unique theme song](https://www.youtube.com/watch?v=Y8IiVZ8Ey64) that places when a train is arriving. Taipei has a wildly convenient network of docked bikeshares that cost only 60¢ per hour, and plenty of bike trails to use them on. The hot spring resort in Beitou was so relaxing I cried. The quantity, quality, and low price of restaurant food was a marvel -- I ate so many delicious meals while rarely paying more than three or four dollars. The precision and calm of a traditional tea preparation transfixed me. And above all, nearly everyone I met was not just kind, but *above-and-beyond* kind -- an "invite you to breakfast with their entire family" sort of kind. It's really a special place.
 
 When I wasn't traveling, I tried even *more* new stuff. I was an assistant director for a production of *A Midsummer Night's Dream*, I took a west coast swing dance class, I went to a speed dating event for the first time[^3], and I took a satire writing workshop. Many (actually most) of the above did not go as well as I'd hoped. And that's okay! I'm still grateful for the new experiences and all the knowledge gained.
 
@@ -54,7 +56,7 @@ So the question is: do I unpack that experience now, here, at this perfect junct
 
 Let's start:
 
-# **Unpacking the blog**
+**Unpacking the blog**
 
 
 .
@@ -179,9 +181,9 @@ The best films I watched this year were [Hundreds of Beavers](https://letterboxd
 
 **Did you read this far? I barely even wrote this far!**
 
-Overall, 2024 was an incredible year. I suffered no significant setbacks or hardships, and made lots of positive progress in areas that matter to me while enjoying a huge quantity of new, positive, varied experiences. I'm extremely grateful for... everything, really[^6].
+Overall, 2024 was an incredible year. Though it's not all roses, and I could also recount any number of anxieties and insecurities, these last twelve months I and made lots of positive progress in areas that matter to me while enjoying a huge quantity of new, positive, varied experiences. I'm extremely grateful for... everything, really[^6].
 
-And whether you skimmed down this wall of text or read through the whole thing, including footnotes (100% completion achievement unlocked), I'm grateful for you, reader. Even when I spend the day (as I did today) wandering the city streets alone, it's because at some point previously I was nourished by time with my friends, family, acquaintances, coworkers, baristas -- all the people who people the world. Including, and especially, you.
+And whether you skimmed or read through the whole letter, including footnotes (100% completion achievement unlocked!), I'm grateful for you, reader. I seem to realize more and more each year how much nourishment I get from my friends, family, acquaintances, coworkers, baristas -- all the people who people the world. Including, and especially, you.
 
 To that end: I would love to chat with you about any thoughts you have after reading this letter, or anything at all really. Text me, DM me, email me[^7], or what I'd REALLY love is to go for a walk or grab coffee or see you in person.
 
@@ -189,8 +191,8 @@ Did I mention I have a guest room?
 
 
 [^1]: Might this great power be leveraged? Read romance before a date? Horror before a campfire? A cookbook before cooking?!
-[^2]: I *wish*! Can't even be a clown these days without going to college, clown or otherwise. Oh, you think you're a clown huh? Did you even earn your nose? Yes this a real thing, no I didn't earn my nose, yes I would like to take a clowning class, yes I will beclown myself regardless.
-[^3]: As well as a singles' event where my friends [pitched me via powerpoint presentation](https://www.seattlesocial.club/events/pitch-a-friend-seattle-1024).
+[^2]: I *wish*! Can't even be a clown these days without going to college, clown or otherwise. Oh, you think you're a clown huh? Did you even earn your nose? Yes this a real thing, no I didn't earn my nose, yes I would like to take a clowning class, but yes I will beclown myself regardless.
+[^3]: As well as a singles' event where my friends pitched me via powerpoint presentation.
 [^4]: I re-tested this recently and confirmed that contemplating mortality is still sufficient to send me into a near panic attack within ~20 seconds.
 [^5]: Not to be confused with the [Palme d'Og](https://en.wikipedia.org/wiki/Palm_Dog_Award)
 [^6]: I've been thinking lately about whether there's a difference between thinking about, and even expression gratitude, compared to actually *feeling* grateful. There's a body of research suggesting spending time on a gratitude journal is beneficial to mental health. I wonder whether instead of writing down X number of things you're grateful, you could just write down *one* thing, and then spend time on really *feeling* that gratitude, sort of like a [loving kindness meditation](https://ggia.berkeley.edu/practice/loving_kindness_meditation).
