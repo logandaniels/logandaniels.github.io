@@ -127,7 +127,7 @@ Grade: B+
 
 I'm not sure this one was ever attainable, since I feel like when I wrote this goal I was thinking of "close" in the way that friends you have known for 5+ years are close, which by definition isn't something that can be accomplished in one year.
 
-I did, however, deepen my friendship with some existing friends while also making a couple new ones of varying levels of closeness. That feels pretty good to me.
+I did, however, deepen my friendship with some existing friends while also making a few new ones. That feels pretty good to me.
 
 Grade: B
 
