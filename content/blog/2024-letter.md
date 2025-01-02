@@ -6,15 +6,15 @@ tags:
 
 After I had written what I thought to be an 80%-finished draft of this post, I by complete coincidence stumbled upon quite a different sort of 2024 post - a [2024 *letter*](https://zhengdongwang.com/2024/12/29/2024-letter.html). That author wrote that he got into writing yearly letters by reading [yet another writer's](https://danwang.co/2023-letter/) annual letters.
 
-As I began reading one letter, and then the next, I felt a dawning realization that compared to the year in review I had drafted, these were letters of a different sort. First, both authors were scholars: voracious readers, deep thinkers, and skilled prose-smiths. But more pressingly, hadn't I been reading for a while now? And why was my scroll bar so small? Then I saw: these letters were 8,000 and 13,000 words long. That's like a year's worth of blog posts! Which, okay, makes a certain kind of sense, it's a Year in Review after all, but man!  
+As I began reading one letter and then the next, I felt the dawning realization that compared to the year in review I had drafted, these were letters of a different sort. First, both authors were scholars: voracious readers, deep thinkers, and skilled prose-smiths. But more pressingly, hadn't I been reading for a while now? And why was my scroll bar so small? Then I saw: these letters were 8,000 and 13,000 words long. That's like a year's worth of blog posts! Which, okay, makes a certain kind of sense, it's a *year* in review after all, but man!  
 
-And yet because of my immediate admiration for the authors' intellect and prose, reading these long-ass letters was a delight. And at the end, when one exhorted, "I don’t understand why more people aren’t writing \[year-end letters\]"? To hear my new brother-in-arms of year-in-review writing speak directly-to-my-heart like that was all it took. I knew I had to scrap my entire post and rewrite it: not as a post, but as a *letter*.
+And yet reading these long-ass letters was a delight. So when at the end of the letter, the author exhorted, "I don’t understand why more people aren’t writing \[year-end letters\]"... To hear my new brother-in-arms of year-in-review writing speak directly-to-my-heart like that was all it took. I knew I had to scrap my entire post and rewrite it: not as a post, but as a *letter*.
 
 So you - whoever made the foolish decision to read *my* year in review letter - are quite lucky. Now I'm a part of this conga-line of annual letters. And in place of the easily digestible bullet points and brevity of my initial draft, instead you get to slog through the clumsy prose of a guy who's doing that thing where you subconsciously imitate the tone of the most recent book you've been reading[^1]. 
 
 **But don't worry.**
 
-Unlike those bozos (god bless them), I'm not a scholar. I'm a clown[^2]. A bozo, if you will. And I know who I am! Sort of. So I will keep this letter authentically me. It's already better than the draft -- the bullets were robotic and sterile. But I'm not a robot, I'm human -- just look at how good I am at captchas! And I'm not sterile, I'm... fertile? That sounds a bit funny.
+Unlike those bozos (god bless them), I'm not a scholar. I'm a clown[^2]. A bozo, if you will. And I know who I am! Sort of. So I will keep this letter authentically me. It's already better than that accursed draft, with its bullet points so robotic and sterile. I'm not a robot, I'm human -- just look at how good I am at captchas! And I'm not sterile, I'm... fertile? That sounds a bit funny.
 
 Hey, speaking of "funny"! Well, I should probably get on with the letter, but just keep that word "funny" in your head, and let's start with the part of the letter that's about:
 
@@ -119,7 +119,7 @@ Grade: "D"
 
 **#5: Donate approximately REDACTED to charity**
 
-I didn't achieve the exact text of this goal, but I stuck to the spirit of the goal and did donate more than last year. If you're interested in making a positive impact by donating to effective charities (or, tech friends, some tax tricks to make your donation go further), I would love to chat with you about that.
+I didn't achieve the exact text of this goal, but I kept to the spirit of the goal and increased my donations from last year.
 
 Grade: B+
 
