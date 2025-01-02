@@ -181,7 +181,7 @@ The best films I watched this year were [Hundreds of Beavers](https://letterboxd
 
 **Did you read this far? I barely even wrote this far!**
 
-Overall, 2024 was an incredible year. Though it's not all roses, and I could also recount any number of anxieties and insecurities, these last twelve months I and made lots of positive progress in areas that matter to me while enjoying a huge quantity of new, positive, varied experiences. I'm extremely grateful for... everything, really[^6].
+Overall, 2024 was an incredible year. Though it's not all roses, and I could also recount any number of anxieties and insecurities, these last twelve months I made lots of positive progress in areas that matter to me while enjoying a huge quantity of new, positive, varied experiences. I'm extremely grateful for... everything, really[^6].
 
 And whether you skimmed or read through the whole letter, including footnotes (100% completion achievement unlocked!), I'm grateful for you, reader. I seem to realize more and more each year how much nourishment I get from my friends, family, acquaintances, coworkers, baristas -- all the people who people the world. Including, and especially, you.
 
