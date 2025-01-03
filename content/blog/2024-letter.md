@@ -30,9 +30,9 @@ Anyway, I bombed. I went to an open mic on three different occasions, and earned
 
 I've put comedy on hold since then, but I swear it's not because I bombed! It's actually kind of funny being up there telling joke after joke and getting no reaction. No, the biggest reason I haven't continued going to open mics is that *almost every other comic was just as bad as me*. I'm not being mean here, I'm just saying we *all* sucked.
 
-Every open mic was five-minute set after five-minute set of dead silence, punctuated by the occasional "Nothing? Okay, not using that one" or "Fuck you guys". Some will say this is expected -- the common analogy is that an open mic is like going to the gym for a comic. You don't perform your best material there, you go there *to get better*, so it's where you test new ideas and workshop the bits that aren't working yet. This makes sense to me, but I would counter that the people I meet at the gym tend to be absolutely jacked.
+Every open mic was five-minute set after five-minute set of dead silence, punctuated by the occasional "Nothing? Okay, not using that one" or "Fuck you guys". Some say this is expected -- the common analogy is that an open mic is like going to the gym for a comic. You go there to get reps in, and *to get better*; bombing is expected because the open mic is where workshop specifically those bits that *aren't* working. This makes sense to me, though in most gyms you don't show up and struggle to lift the lowest weight for five minutes, then blame it on the weights and proceed to sit watching everyone else work out for an hour.
 
-At any rate, the calculus for me became: do I want to spend hours at home in my underwear writing jokes, take a half-hour bus to the open mic and sit through over an hour of unfunny standup, just to perform five minutes of comedy to a bunch of jaded comics looking at their phones? In some ways it's still a delightful experience, but in many ways it's also just an absolute hell.
+Because really, that's what the calculus for me became: do I want to spend hours at home in my underwear writing jokes, take a half-hour bus to the open mic and sit through over an hour of unfunny standup, just to perform five minutes of comedy to a bunch of jaded comics who are on their phones anyway? It's honestly more fun than it sounds, but it's also kind of hell.
 
 Still, I would like to come back to writing and performing comedy at some point. There's just no better feeling in life than making people laugh. And honestly, I'd settle for just performing a set that *I* feel good about, and giving a well-deserved "Fuck you guys" at the end.
 
@@ -40,7 +40,7 @@ Still, I would like to come back to writing and performing comedy at some point.
 
 I was all over the place this year, geographically. I visited the UK and France for the first time, including attending the [Cannes Film Festival](https://ericbai.co/the-ultimate-cannes-film-festival-guide-three-days-in-cannes) (did you know you can get free festival admission if you're 28 or younger? Check that link!). I also got to spend a lot of time traveling with family to Las Vegas, Minnesota, and Alaska.
 
-And I capped off the year with a fantastic two-week trip to Taiwan. I would love to luxuriate in the details of that trip, which is now one of my favorite all-time trips, but by strange coincidence one of the letter-writers I mentioned earlier already made the case for Taiwan [in his 2024 letter](https://zhengdongwang.com/2024/12/29/2024-letter.html). And if there's one thing I learned from performing Jerry Seinfeld's entire act verbatim an open mic, it's that people do NOT like it when you steal material.
+And I capped off the year with a fantastic two-week trip to Taiwan. I would love to luxuriate in the details of that trip, which is now one of my favorite all-time trips, but by strange coincidence one of the letter-writers I mentioned earlier already made the case for Taiwan [in his 2024 letter](https://zhengdongwang.com/2024/12/29/2024-letter.html). And if there's one thing I learned from performing Jerry Seinfeld's entire act verbatim at an open mic, it's that people do NOT like it when you steal material.
 
 I will just share a few tidbits that I loved about Taiwan. Each of Taipei's metro lines has [a unique theme song](https://www.youtube.com/watch?v=Y8IiVZ8Ey64) that places when a train is arriving. Taipei has a wildly convenient network of docked bikeshares that cost only 60¢ per hour, and plenty of bike trails to use them on. The hot spring resort in Beitou was so relaxing I cried. The quantity, quality, and low price of restaurant food was a marvel -- I ate so many delicious meals while rarely paying more than three or four dollars. The precision and calm of a traditional tea preparation transfixed me. And above all, nearly everyone I met was not just kind, but *above-and-beyond* kind -- an "invite you to breakfast with their entire family" sort of kind. It's really a special place.
 
@@ -85,9 +85,9 @@ These are big changes, right? I suppose. And yet in a way they're small -- they'
 
 I make this contrast because each of the past few years I tend to also dream of larger, [blow up my life](https://sashachapin.substack.com/p/in-praise-of-blowing-up-your-life) style changes. I should move to New York -- no, I should move to Taipei! Perhaps I should quit my job! I have some sense of being stuck in a pleasant, sustainable rut -- perpetually in conflict over whether the grass might really be greener if I could just jump off this (figurative) cliff. It feels hard to distinguish whether I'm wisely identifying a difficult but necessary life change, or if I'm just using an escapist fantasy to deflect from some actually difficult inner work.
 
-In 2023, I very seriously contemplated a move to New York. But in the end I decided to commit to my life in Seattle, reasoning that the changes I wanted to make by moving cities could just as easily happen here as long as I applied myself and made concerted efforts in those areas. Looking back on this a year later... I don't think much has changed, despite that re-commitment. I feel as much of a drive to move cities, and as much of an alienation from Seattle, as I did before. But is that because I have accumulated even more wisdom and clarity, or have I just spent another year shielding my ego and identity from that elusive inner work? I wish I knew. 
+In 2023, I very seriously contemplated moving to New York. But in the end I decided to commit to my life in Seattle, reasoning that the changes I wanted to make by moving cities could just as easily happen here as long as I applied myself and made concerted efforts in those areas. Looking back on this a year later... I don't think much has changed, despite that re-commitment. I feel as much of a drive to move cities, and as much of an alienation from Seattle, as I did before. But is that because I have accumulated even more wisdom and clarity, or have I just spent another year shielding my ego and identity from that elusive inner work? I wish I knew. 
 
-So maybe 2025 will be the year of the non-incremental change, the year I muster the courage to make a big risky scary disruptive change. Or maybe it won't and I'll continue to be my normal, risk-averse self. Patterns of behavior can be hard to change. Even so, I'm looking forward to taking some time to figure out what's important to me for 2025.
+So maybe 2025 will be the year of the non-incremental change, the year I muster the courage to make a big risky scary disruptive change. Or maybe it won't and I'll continue to be my normal, generally happy where I am, risk-averse self. Patterns of behavior can be hard to change. Even so, I'm looking forward to taking some time to figure out what's important to me for 2025.
 
 **Goals for 2024, in retrospect**
 
@@ -139,15 +139,36 @@ Perhaps this is a case of "shoot for the moon, and if you fail at least you'll l
 
 Grade: B-
 
-**Reflection**
+**A brief reflection**
 
-Honestly, pretty good! I generally stayed focused on what was important to me at the beginning of the year. And the grades here match up with my assessment of the year overall: the last 12 months have been wonderful. 
+If you sum those grades up, you get AABDBB.
 
-**The machines are thinking? Wait, that wasn't on my list of goals**
+That looks a bit like a rhyme scheme to me.
 
-A lowlight for the year is that I have been, and am still, quite concerned about **[AI risk](https://situational-awareness.ai/).** It seems very possible that transformatively intelligent AI will be developed within the next decade, leading to a staggering degree of societal change -- hopefully good, but potentially bad or catastrophic.
+Happily, I stayed focused on what was important this year.
 
-This feeling intensified this year because of the rapid advancement of AI capabilities, as well as because I spent more time on parts of the internet where people worry about this. How does it impact me right now? Well, I'm "pricing in" substantial uncertainty in the coming years, and avoiding over-indexing on long term plans because [I can't predict what will happen](https://www.thediff.co/archive/economic-lessons-from-the-last-few-singularities/?ref=the-diff-newsletter#economic-lessons-from-the-last-few-singularities). And I'm including AI safety organizations in my donations for this year.
+Which is good! Because years don't come cheap, and I'm turning thirty soon.
+
+As my friends get pregnant and married, what feels near -- what I fear
+
+is the passage of time. Time feels most dear.
+
+
+**Slow down there, cowboy**
+
+As I've been working on this letter, I've noticed that depending on my mood, my writing alternates between manic mischief and melancholy introspection. Though it's probably whiplash-inducing for a reader, it feels fitting. I am both of those things, sometimes.
+
+Do you think of the passage from December 31st into January 1st as a discontinuity, a sudden shift from one year to next? Or do you consider it a smooth transition, just one day turning to another on a long gradual journey? I'm more in the latter camp.
+
+When I look back on the year, I can't just assess how I feel on new year's day. Nor can I restrict my view to how I felt the day before, or on *last* new year's day. I have to take the full 365-day journey into account -- and yet just taking a 365-day average of that journey would be just as inaccurate. There were both mischief and melancholy aplenty along the way, and it feels like brushing some vital truth under the rug not to acknowledge both. And anyway, sometimes melancholy is its own form of mischief.
+
+All this is to say: if this letter feels absolutely all over the place, and you don't like it? That means you don't like *me*, and you're a bad person and I hate you.
+
+**Machines can think now? Wait, that wasn't on my list of goals**
+
+A lowlight this year is that I have been, and still am, quite concerned about **[AI risk](https://situational-awareness.ai/).** It seems very possible that transformatively intelligent AI will be developed within the next decade, leading to a staggering degree of societal change -- hopefully good, but potentially bad or catastrophic.
+
+This feeling intensified this year because of the rapid advancement of AI capabilities, as well as because I spent more time on parts of the internet where people worry about this. How does it impact me right now? Well, I'm "pricing in" substantial uncertainty in the coming years, and indexing less on some long-term plans because [I can't predict what will happen](https://www.thediff.co/archive/economic-lessons-from-the-last-few-singularities/?ref=the-diff-newsletter#economic-lessons-from-the-last-few-singularities). And I'm including AI safety organizations in my donations for this year.
 
 But other than that it's basically in the same bucket as "remembering I'll die someday", which is to say my main coping strategy is not thinking about it[^4]. Otherwise, AI risk has very little to do with my day-to-day life -- it's not as though I'm an AI researcher -- but I felt I'd be remiss not including it in this letter as it's an important part of where my head is at right now.
 
@@ -155,7 +176,7 @@ But other than that it's basically in the same bucket as "remembering I'll die s
 
 I read roughly a book a month this year, mostly nonfiction, and a few stand out.
 
-First, [How to Change Your Mind: The New Science of Psychedelics](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind). This blew my mind. In addition to being a comprehensive history of psychedelic culture and research, it significantly influenced my mental model of how brains work in general. Here are a few representative passages -- because they're *good*, NOT just because I need to pump up my word count (8,000 here I come!).
+First, [How to Change Your Mind: The New Science of Psychedelics](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind). This blew my mind. In addition to being a comprehensive history of psychedelic culture and research, it significantly influenced my mental model of how brains work in general. I strongly recommend it. Here are a few representative passages -- because they're *good*, NOT just because I need to pump up my word count (8,000 here I come!).
 
 On anxiety and depression:
 > We should think of the two disorders as “fraternal twins”: “Depression is a response to past loss, and anxiety is a response to future loss.” Both reflect a mind mired in rumination, one dwelling on the past, the other worrying about the future. What mainly distinguishes the two disorders is their tense.
@@ -183,7 +204,7 @@ The best films I watched this year were [Hundreds of Beavers](https://letterboxd
 
 Overall, 2024 was an incredible year. Though it's not all roses, and I could also recount any number of anxieties and insecurities, these last twelve months I made lots of positive progress in areas that matter to me while enjoying a huge quantity of new, positive, varied experiences. I'm extremely grateful for... everything, really[^6].
 
-And whether you skimmed or read through the whole letter, including footnotes (100% completion achievement unlocked!), I'm grateful for you, reader. I seem to realize more and more each year how much nourishment I get from my friends, family, acquaintances, coworkers, baristas -- all the people who people the world. Including, and especially, you.
+And whether you skimmed, or read through the whole letter including footnotes (100% completion achievement unlocked!), I'm grateful for you, reader. I seem to realize more and more each year how much nourishment I get from my friends, family, acquaintances, coworkers, baristas -- all the people who people the world. Including, and especially, you.
 
 To that end: I would love to chat with you about any thoughts you have after reading this letter, or anything at all really. Text me, DM me, email me[^7], or what I'd REALLY love is to go for a walk or grab coffee or see you in person.
 
