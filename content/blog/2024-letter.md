@@ -32,13 +32,13 @@ I've put comedy on hold since then, but I swear it's not because I bombed! It's 
 
 Every open mic was five-minute set after five-minute set of dead silence, punctuated by the occasional "Nothing? Okay, not using that one" or "Fuck you guys". Some say this is expected -- the common analogy is that an open mic is like going to the gym for a comic. You go there to get reps in, and *to get better*; bombing is expected because the open mic is where workshop specifically those bits that *aren't* working. This makes sense to me, though in most gyms you don't show up and struggle to lift the lowest weight for five minutes, then blame it on the weights and proceed to sit watching everyone else work out for an hour.
 
-Because really, that's what the calculus for me became: do I want to spend hours at home in my underwear writing jokes, take a half-hour bus to the open mic and sit through over an hour of unfunny standup, just to perform five minutes of comedy to a bunch of jaded comics who are on their phones anyway? It's honestly more fun than it sounds, but it's also kind of hell.
+Because really, that's what the calculus for me became: do I want to spend hours at home in my underwear writing jokes, take an hour bus to the open mic and sit through another hour of unfunny standup, just to perform five minutes of comedy to a bunch of jaded comics who are on their phones anyway? It's honestly more fun than it sounds, but it's also kind of hell.
 
-Still, I would like to come back to writing and performing comedy at some point. There's just no better feeling in life than making people laugh. And honestly, I'd settle for just performing a set that *I* feel good about, and giving a well-deserved "Fuck you guys" at the end.
+Still, I would like to come back to writing and performing comedy at some point. There's simply no feeling in life more electric than making people laugh. And honestly, I'd settle for just performing a set that *I* feel good about, and giving a well-deserved "Fuck you guys" at the end.
 
 **MORE STUFF I DID**
 
-I was all over the place this year, geographically. I visited the UK and France for the first time, including attending the [Cannes Film Festival](https://ericbai.co/the-ultimate-cannes-film-festival-guide-three-days-in-cannes) (did you know you can get free festival admission if you're 28 or younger? Check that link!). I also got to spend a lot of time traveling with family to Las Vegas, Minnesota, and Alaska.
+I was all over the place this year, geographically. I visited the UK and France for the first time, including attending the [Cannes Film Festival](https://ericbai.co/the-ultimate-cannes-film-festival-guide-three-days-in-cannes) (did you know you can get free festival admission if you're 28 or younger? Check that link!). I attended [Manifest](https://www.manifest.is/), the valhalla of nerds. I also got to spend a lot of time traveling with family in Las Vegas, Minnesota, and Alaska.
 
 And I capped off the year with a fantastic two-week trip to Taiwan. I would love to luxuriate in the details of that trip, which is now one of my favorite all-time trips, but by strange coincidence one of the letter-writers I mentioned earlier already made the case for Taiwan [in his 2024 letter](https://zhengdongwang.com/2024/12/29/2024-letter.html). And if there's one thing I learned from performing Jerry Seinfeld's entire act verbatim at an open mic, it's that people do NOT like it when you steal material.
 
@@ -63,7 +63,7 @@ Let's start:
 .
 .
 
-Nah jk fuck that
+lol jk fuck that
 
 **Big changes but also small**
 
@@ -75,7 +75,7 @@ I have a guest room, which has gotten a bit of mileage, but not nearly as much a
 
 The new place is much more centrally located, which has already borne fruit. It's much easier to visit friends and events, whether via public transit, bicycle, or on foot. I sincerely appreciate the car-free life. Naturally, my new place also includes a reserved parking space. For my guests, you see!
 
-My new neighborhood is full of fresh new restaurants to eat at, but I've already become sick of most of the nearby joints. Thankfully I also have a humongous kitchen, complete with vast counter space which I liberally use to store junk mail and tchotchkes, and a modern range perfect for cooking instant noodles.
+My new neighborhood is full of fresh new restaurants to eat at, though somehow that vast culinary frontier is already beginning to feel small. Thankfully I also have a humongous kitchen, complete with vast counter space which I liberally use to store junk mail and tchotchkes, and a modern range perfect for cooking instant noodles.
 
 I really do like my new place quite a lot. But I'm not sure my lifestyle demands a place as spacious as my current one[^8]. For my next move, I may downsize, or else I'm considering living with housemates for a bit, which I haven't done since college. I think it sounds great, *if* I can find the right likeminded people who'd be fun to live with. If you want to live with me, or have a room opening up in your home, let me know!
 
@@ -85,9 +85,9 @@ These are big changes, right? I suppose. And yet in a way they're small -- they'
 
 I make this contrast because each of the past few years I tend to also dream of larger, [blow up my life](https://sashachapin.substack.com/p/in-praise-of-blowing-up-your-life) style changes. I should move to New York -- no, I should move to Taipei! Perhaps I should quit my job! I have some sense of being stuck in a pleasant, sustainable rut -- perpetually in conflict over whether the grass might really be greener if I could just jump off this (figurative) cliff. It feels hard to distinguish whether I'm wisely identifying a difficult but necessary life change, or if I'm just using an escapist fantasy to deflect from some actually difficult inner work.
 
-In 2023, I very seriously contemplated moving to New York. But in the end I decided to commit to my life in Seattle, reasoning that the changes I wanted to make by moving cities could just as easily happen here as long as I applied myself and made concerted efforts in those areas. Looking back on this a year later... I don't think much has changed, despite that re-commitment. I feel as much of a drive to move cities, and as much of an alienation from Seattle, as I did before. But is that because I have accumulated even more wisdom and clarity, or have I just spent another year shielding my ego and identity from that elusive inner work? I wish I knew. 
+In 2023, I very seriously contemplated moving to New York. But in the end I decided to commit to my life in Seattle, reasoning that the changes I wanted to make by moving cities could just as easily happen here as long as I applied myself and made concerted efforts to reshape my life. Looking back on this a year later... I don't think much has changed, despite that re-commitment. I feel as much of a drive to move cities, and as much of an alienation from Seattle, as I did before. But is that because I have accumulated an even firmer bedrock of wisdom and clarity, or have I just spent another year shielding my ego and identity from that elusive inner work? I wish I knew. 
 
-So maybe 2025 will be the year of the non-incremental change, the year I muster the courage to make a big risky scary disruptive change. Or maybe it won't and I'll continue to be my normal, generally happy where I am, risk-averse self. Patterns of behavior can be hard to change. Even so, I'm looking forward to taking some time to figure out what's important to me for 2025.
+So maybe 2025 will be the year of the non-incremental change, the year I muster the courage to make a big, risky, scary, disruptive change. Or maybe it won't and I'll continue to be my normal, generally happy where I am, risk-averse self. Patterns of behavior can be hard to change. Even so, I'm looking forward to taking some time to figure out what's important to me for 2025.
 
 **Goals for 2024, in retrospect**
 
@@ -147,12 +147,11 @@ That looks a bit like a rhyme scheme to me.
 
 Happily, I stayed focused on what was important this year.
 
-Which is good! Because years don't come cheap, and I'm turning thirty soon.
+Which is good! Because years don't come cheap.
 
-As my friends get pregnant and married, what feels near -- what I fear
+As my friends get pregnant and married, what feels near, what I fear
 
-is the passage of time. Time feels most dear.
-
+is the passage of time. Time feels so dear.
 
 **Slow down there, cowboy**
 
@@ -160,7 +159,7 @@ As I've been working on this letter, I've noticed that depending on my mood, my 
 
 Do you think of the passage from December 31st into January 1st as a discontinuity, a sudden shift from one year to next? Or do you consider it a smooth transition, just one day turning to another on a long gradual journey? I'm more in the latter camp.
 
-When I look back on the year, I can't just assess how I feel on new year's day. Nor can I restrict my view to how I felt the day before, or on *last* new year's day. I have to take the full 365-day journey into account -- and yet just taking a 365-day average of that journey would be just as inaccurate. There were both mischief and melancholy aplenty along the way, and it feels like brushing some vital truth under the rug not to acknowledge both. And anyway, sometimes melancholy is its own form of mischief.
+When I look back on the year, I can't just assess how I feel on new year's day. Nor can I restrict my view to how I felt the day before, or on *last* new year's day. I have to take the full 365-day journey into account -- and yet just taking a 365-day average of that journey would be just as inaccurate. There were both mischief and melancholy aplenty along the way, and it feels like brushing some vital truth under the rug not to acknowledge both. And sometimes melancholy is its own form of mischief.
 
 All this is to say: if this letter feels absolutely all over the place, and you don't like it? That means you don't like *me*, and you're a bad person and I hate you.
 
@@ -191,7 +190,7 @@ The other book that shook me this year was [The Doomsday Machine: Confessions of
 
 On a less technical and extinctive note, I also enjoyed [Theatre of the Unimpressed: In Search of Vital Drama](https://www.goodreads.com/book/show/23129745-theatre-of-the-unimpressed.) . This was a recommendation from a theatre director friend after I pondered aloud, "I'm not sure if I actually enjoy most of the theater I see?" This book gave me a framework for understanding why that might be. I'll share a few passages from this one too (Screw 8,000. I need 13,000 words!).
 
-This is the central thesis of the book, skillfully analogized:
+This is the central thesis of the book, as a highly relatable analogy:
 > A lackluster orgy suffers from all of the same problems as boring theatre. People go through the motions, they do what’s expected, they make the sounds they’re supposed to make, but it’s really not as surprising or exhilarating as you hope or imagine it will be. I mean, there are so many people in the room! How can we not be making something great happen here? Obviously sex is not the problem, just like theatre is not the problem. We’ve got all the ingredients to make something really dynamite, but we’re just not getting it right. Most of us are left on the sidelines watching, trying to get off, getting bored, giving up and going home ungratified. Like a bad sex partner, boring theatre doesn’t feel present. The actors do not feel truly in the same room as you. You are not affecting the action and the action is not affecting you. The actors might as well be onscreen, and you might as well be watching porn.
 
 And on why effective theatre should capitalize on its advantages as a live experience, rather than pretending to compete with cinema:
