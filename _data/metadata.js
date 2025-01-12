@@ -1,4 +1,4 @@
-module.exports = {
+export default {
 	title: "Peanut Buttering",
 	url: "https://peanutbuttering.com/",
 	language: "en",
