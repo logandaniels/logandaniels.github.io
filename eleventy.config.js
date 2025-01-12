@@ -4,7 +4,10 @@ import pluginRss from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginBundle from "@11ty/eleventy-plugin-bundle";
 import pluginNavigation from "@11ty/eleventy-navigation";
-import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
+import {
+	EleventyHtmlBasePlugin,
+	InputPathToUrlTransformPlugin,
+} from "@11ty/eleventy";
 import pluginDrafts from "./eleventy.config.drafts.js";
 import pluginImages from "./eleventy.config.images.js";
 import FootnotePlugin from "markdown-it-footnote";
@@ -36,6 +39,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPlugin(pluginNavigation);
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 	eleventyConfig.addPlugin(pluginBundle);
+	eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
 
 	// Filters
 	eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
