@@ -4,7 +4,7 @@ date: 2024-09-11
 tags:
 ---
 
-Today I went to a dinner hosted by [Timeleft](https://timeleft.com). Their tagline is "Dinner with Strangers", and it's exactly that: on a particular night you're told a restaurant to show up to at a designated time, where you'll meet and eat dinner with a curated group of strangers. The rest is up to you!
+Today I went to a dinner hosted by [Timeleft](https://timeleft.com) in Seattle. Their tagline is "Dinner with Strangers", and it's exactly that: on a particular night you're told a restaurant to show up to at a designated time, where you'll meet and eat dinner with a curated group of strangers. The rest is up to you!
 
 The app charges a $16 "finder's fee" for signup, and you pay for the dinner normally.
 
@@ -29,6 +29,16 @@ A few more details:
 Overall, I would enthusiastically recommend Timeleft, especially to anyone looking to make new friends. It seems remarkably effective for forming getting to know people quickly. I started to feel close to my dinner partners over the course of the night, and as I was leaving many people were exchanging contact information and seemed receptive to continued friendship.
 
 As for me personally, I had a wonderful time and will certainly consider attending again in the future.
+
+--
+
+**Update:** I did end up attending a second TimeLeft dinner, and I did not vibe nearly as well with the other attendees this time around. There was one person at the dinner who I thought seemed quite interesting, and I wanted to just chat with him, but the dinner-table format means it's not feasible to have extended side conversations.
+
+At the post-dinner afterparty I found a group that was a better fit for me than my dinner had been, but even there everyone was seated around a single table, making it hard to have one-on-one conversations. I guess that's a flaw of this format -- it's well designed to get bits and pieces of interactions with a large number of people, but you probably won't be able to connect deeply with anyone unless you manage to find small-group time with them at the afterparty or you set up time to meet up with them at a later date.
+
+The food was even worse than the already so-so food of the first dinner, which was a bummer.
+
+I still recommend trying TimeLeft, but my second experience introduces some important caveats, the biggest of which is: this is a high-variance experience very dependent on your dinnermates.
 
 [^1]: These were ordered from least to most intimate, seemingly modeled after the [36 Questions](https://ggia.berkeley.edu/practice/36_questions_for_increasing_closeness).
 [^2]: There's also whatever additional selection was performed by Facebook and Instagram ad targeting, since that was where we all learned about the app.
