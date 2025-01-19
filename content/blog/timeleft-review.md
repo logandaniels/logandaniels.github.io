@@ -30,5 +30,15 @@ Overall, I would enthusiastically recommend Timeleft, especially to anyone looki
 
 As for me personally, I had a wonderful time and will certainly consider attending again in the future.
 
+--
+
+**Update:** I did end up attending a second TimeLeft dinner, and I did not vibe nearly as well with the other attendees this time around. There was one person at the dinner who I thought seemed quite interesting, and I wanted to just chat with him, but the dinner-table format means it's not feasible to have extended side conversations.
+
+At the post-dinner afterparty I found a group that was a better fit for me than my dinner had been, but even there everyone was seated around a single table, making it hard to have one-on-one conversations. I guess that's a flaw of this format -- it's well designed to get bits and pieces of interactions with a large number of people, but you probably won't be able to connect deeply with anyone unless you manage to find small-group time with them at the afterparty or you set up time to meet up with them at a later date.
+
+The food was even worse than the already so-so food of the first dinner, which was a bummer.
+
+I still recommend trying TimeLeft, but my second experience introduces some important caveats, the biggest of which is: this is a high-variance experience very dependent on your dinnermates.
+
 [^1]: These were ordered from least to most intimate, seemingly modeled after the [36 Questions](https://ggia.berkeley.edu/practice/36_questions_for_increasing_closeness).
 [^2]: There's also whatever additional selection was performed by Facebook and Instagram ad targeting, since that was where we all learned about the app.
