@@ -43,6 +43,9 @@ But right now, Apple Music is all I ever wanted.
 
 I only listen to a single playlist. It's called "Feel Good". And I do.
 
+--
+
+**Update:** After using it for some time, I have some critiques of Apple Music too, as well as a theory that I could solve some of my Spotify problems by using the service differently. I plan to make a more detailed comparison post after I've had time to experiment more, including trying out... YouTube Music!
 
 
 [^1]: Literally. Spotify Discover Weekly once recommended to me the lively tunes [Depression is Here](https://open.spotify.com/track/1s7pDASwz8KkfRfGdwGJoo) and [Congratulations, You Survived Your Suicide](https://open.spotify.com/track/30j49jjGOeT4GuvRnHhjb6).
