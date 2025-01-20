@@ -105,6 +105,23 @@ export default function (eleventyConfig) {
 		return new Date().toISOString();
 	});
 
+	eleventyConfig.addCollection("postsByYear", (collection) => {
+		const posts = collection.getFilteredByTag("posts").reverse();
+		const years = posts.map((post) => post.date.getFullYear());
+		console.warn(posts.map((post) => post.date));
+		const uniqueYears = [...new Set(years)];
+
+		const postsByYear = uniqueYears.reduce((prev, year) => {
+			const filteredPosts = posts.filter(
+				(post) => post.date.getFullYear() === year
+			);
+
+			return [...prev, [year, filteredPosts]];
+		}, []);
+
+		return postsByYear;
+	});
+
 	// Features to make your build faster (when you need them)
 
 	// If your passthrough copy gets heavy and cumbersome, add this line
