@@ -7,16 +7,5 @@ eleventyNavigation:
 {% set postsCount = collections.posts | length %}
 
 {% set postslist = collections.posts %}
-{% set postslistCounter = postsCount %}
 
-{% for year, yearPosts in collections.postsByYear %}
-  <h2 class="yearHeader">{{ year }}</h2>
-  <ul class="postlist">
-    {% for post in yearPosts  %}
-      <li class="postlist-item">
-	  		<a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
-		<time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL d") }}</time>
-		</li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+{% include "postslist.njk" %}

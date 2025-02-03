@@ -183,16 +183,19 @@ header {
 
 /* Posts list */
 .postlist {
+	display: flex;
+	flex-direction: column;
 	list-style: none;
 	padding: 0;
 	padding-left: 1.5rem;
+	gap: 5px;
 }
 .postlist-item {
 	display: flex;
-	flex-wrap: wrap;
+	/* flex-wrap: wrap; */
 	align-items: baseline;
 	/* counter-increment: start-from -1; */
-	margin-bottom: 1em;
+	/* margin-bottom: 1em; */
 }
 .postlist-item:before {
 	display: inline-block;
@@ -208,13 +211,19 @@ header {
 	color: var(--color-gray-90);
 }
 .postlist-date {
+	white-space: nowrap;
 	word-spacing: -0.5px;
+	flex: 0 0 4em; /* Fixed width that fits "MMM dd" format */
+}
+.post-item {
+	display: flex;
+	flex:1;
+	align-items: baseline;
+	gap: 0.3em;
 }
 .postlist-link {
-	font-size: 1.1875em; /* 19px /16 */
-	font-weight: 700;
-	flex-basis: calc(100% - 1.5rem);
-	/* padding-left: .25em; */
+	flex-grow: 1;
+	font-weight: 600;
 	padding-right: .5em;
 	text-underline-position: from-font;
 	text-underline-offset: 0;
@@ -238,6 +247,8 @@ header {
 
 /* Tags list */
 .post-metadata {
+	font-variant: small-caps;
+	font-variant-caps: all-small-caps;
 	display: inline-flex;
 	flex-wrap: wrap;
 	gap: .5em;
