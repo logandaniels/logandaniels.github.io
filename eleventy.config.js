@@ -122,6 +122,11 @@ export default function (eleventyConfig) {
 		return postsByYear;
 	});
 
+	// Filter for highlighted posts
+	eleventyConfig.addFilter("filterHighlightedPosts", (posts) => {
+		return posts.filter((post) => post.data.highlighted === true);
+	});
+
 	// Features to make your build faster (when you need them)
 
 	// If your passthrough copy gets heavy and cumbersome, add this line

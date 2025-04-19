@@ -1,6 +1,7 @@
 ---
 title: The red stuff glows
 date: 2024-09-26
+highlighted: true
 tags:
 ---
 

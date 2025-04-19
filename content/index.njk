@@ -5,6 +5,11 @@ eleventyNavigation:
   order: 1
 ---
 {% set postsCount = collections.posts | length %}
+{% set highlightedPosts = collections.posts | filterHighlightedPosts %}
+
+{% if highlightedPosts.length > 0 %}
+{% include "highlights.njk" %}
+{% endif %}
 
 {% set postslist = collections.posts %}
 

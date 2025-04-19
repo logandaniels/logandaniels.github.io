@@ -1,6 +1,7 @@
 ---
 title: Apple Music is all I ever wanted 
 date: 2024-09-12
+highlighted: true
 tags:
 ---
 
