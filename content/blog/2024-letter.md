@@ -1,6 +1,7 @@
 ---
-title: ★ 2024 Letter
+title: 2024 Letter
 date: 2025-01-01 12:00:00
+favorite: true
 highlighted: true
 tags:
 ---

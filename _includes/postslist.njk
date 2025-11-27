@@ -4,7 +4,7 @@
     {% for post in yearPosts  %}
       <li class="postlist-item">
       <div class="post-item">
-        <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("MMM d") }}</time> <a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+        <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("MMM d") }}</time> <a href="{{ post.url }}" class="postlist-link">{% if post.data.favorite %}👨‍🍳 {% endif %}{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
       </li>
       </div>
     {% endfor %}
