@@ -2,6 +2,7 @@
 title: Escape from dreamland
 date: 2025-02-12
 highlighted: true
+favorite: true
 tags:
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Alcohol as Chesteron's Fence
 date: 2024-08-31
+favorite: true
 tags:
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Never Run Alone
 date: 2024-09-03
+favorite: true
 tags:
 ---
 

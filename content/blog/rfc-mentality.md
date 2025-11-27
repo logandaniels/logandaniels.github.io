@@ -1,6 +1,7 @@
 ---
 title: RFC mentality
 date: 2025-11-12
+favorite: true
 tags: work
 ---
 
