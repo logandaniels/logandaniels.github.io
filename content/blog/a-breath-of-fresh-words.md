@@ -1,6 +1,7 @@
 ---
 title: A breath of fresh words
 date: 2025-11-07
+favorite: true
 tags:
 ---
 
