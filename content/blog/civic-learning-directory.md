@@ -77,12 +77,6 @@ Have a suggestion for addition? [Let me know!](mailto:logan@peanutbuttering.com)
 - A free, seven-week course introducing participants to regional issues including transportation, housing, economic vitality, and civic engagement
 - This is less about the mechanics of government in the Denver area, but a decent entrypoint to become more civically engaged
 
-## Charlotte, North Carolina
-
-#### **[Civic Leadership Academy (City of Charlotte)](https://www.charlottenc.gov/Streets-and-Neighborhoods/Get-Involved/Attend-the-Civic-Leadership-Academy)**
-* A free, 13-session in-person program open to all Charlotte residents, covering how the city operates, Charlotte's history and demographics, the decision-making process, budgeting, and data-driven advocacy.
-
-
 ## Norman, Oklahoma
 
 #### **[City of Norman Citizens Academy](https://www.normanok.gov/city-norman-citizens-academy-2024)**
